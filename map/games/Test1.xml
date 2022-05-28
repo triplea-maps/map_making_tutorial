@@ -516,6 +516,15 @@
                 <property name="Germans bid" value="0" editable="true">
                         <number min="0" max="1000"/>
                 </property>
+                <property name="Total Victory" value="true" editable="false">
+                        <boolean/>
+                </property>
+                <property name="Axis Total Victory VCs" value="3" editable="true">
+                        <number min="2" max="3"/>
+                </property>
+                <property name="Allies Total Victory VCs" value="3" editable="true">
+                        <number min="2" max="3"/>
+                </property>
                 <property name="mapName" value="map_making_tutorial" editable="false"/>
                 <property name="notes">
                         <value>
